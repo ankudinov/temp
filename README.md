@@ -1,1 +1,3 @@
-# temp
+# REPOSITORY FOR SIMPLE TEMPORARY SCRIPTS
+
+Just to share quickly
